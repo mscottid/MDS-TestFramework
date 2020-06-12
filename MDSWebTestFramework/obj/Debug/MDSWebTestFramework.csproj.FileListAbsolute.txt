@@ -1,0 +1,14 @@
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\MDSWebTestFramework.dll
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\MDSWebTestFramework.pdb
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\WebDriver.dll
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\WebDriver.Support.dll
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\WebDriver.xml
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\WebDriver.Support.xml
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\obj\Debug\MDSWebTestFramework.csprojAssemblyReference.cache
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\obj\Debug\MDSWebTestFramework.csproj.CoreCompileInputs.cache
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\obj\Debug\MDSWebTestFramework.csproj.CopyComplete
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\obj\Debug\MDSWebTestFramework.dll
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\obj\Debug\MDSWebTestFramework.pdb
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\GitHub\MDSTestFramework\MDS-TestFramework\MDSWebTestFramework\bin\Debug\Newtonsoft.Json.xml
